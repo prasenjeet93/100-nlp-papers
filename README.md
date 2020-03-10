@@ -12,7 +12,7 @@ A paper doesn't have to be a peer-reviewed conference/journal paper to appear he
 
 ## Machine Learning
 
-* Avrim Blum and Tom Mitchell: Combining Labeled and Unlabeled Data with Co-Training, 1998.
+* Avrim Blum and Tom Mitchell: Combining Labeled and Unlabeled Data with Co-Training, 1998. - [Paper](https://www.cs.cmu.edu/~avrim/Papers/cotrain.pdf) : Reading
 
 * John Lafferty, Andrew McCallum, Fernando C.N. Pereira: Conditional Random Fields: Probabilistic Models for Segmenting and Labeling Sequence Data, ICML 2001.
 
